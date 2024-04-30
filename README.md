@@ -1,4 +1,4 @@
-# Minor-Project
+# Minor-Project Computer Vision Implementation 
 Computer vision (CV) is a field of artificial intelligence (AI) that enables computers and systems to 
 derive meaningful information from digital images, videos and other visual inputs. One of the applications of CV 
 is studying the movements and gestures of hands. Hand gestures offer an inspiring field of research because 
